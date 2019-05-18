@@ -6,5 +6,5 @@ function trimAll(string) {
 }
 
 test('trimAll testing', t => {
-    t.is(trimAll('Barrior'), 'Barrio')
+    t.is(trimAll('Barrior'), 'Barrior')
 })
